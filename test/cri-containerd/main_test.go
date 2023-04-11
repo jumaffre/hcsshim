@@ -58,6 +58,7 @@ const (
 	imageLcowCustomUser     = "cplatpublic.azurecr.io/linux_custom_user:latest"
 	alpineAspNet            = "mcr.microsoft.com/dotnet/core/aspnet:3.1-alpine3.11"
 	alpineAspnetUpgrade     = "mcr.microsoft.com/dotnet/core/aspnet:3.1.2-alpine3.11"
+	imageLcowUbuntu         = "ubuntu:latest"
 
 	imageWindowsProcessDump = "cplatpublic.azurecr.io/crashdump:latest"
 	imageWindowsArgsEscaped = "cplatpublic.azurecr.io/argsescaped:latest"
